@@ -8,6 +8,21 @@
 
 # 91CL-VPN丨科学上网摆渡人
 
+（特别提醒：本站导航建议PC端访问，推荐谷歌、火狐等非国产浏览器）
+
+如有失效网址，请及时告知，联系方式在最下方
+
+
+#### 墙裂推荐
+
+------
+
+[点击进入👉91CL社區丨首页]( https://github.com/91CL/91CL/blob/master/README.md )
+
+[点击进入👉91CL社區丨福利网站导航]( https://github.com/91CL/91CL-Nav/blob/master/README.md )
+
+[【最新发布】点击进入👉91CL社區丨福利APP分享]( https://github.com/91CL/91CL-APP/blob/master/README.md )
+
 #### 翻墙软件（不完全汇总）
 
 ------
