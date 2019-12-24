@@ -23,6 +23,12 @@
 
 [【最新发布】点击进入👉91CL社區丨福利APP分享]( https://github.com/91CL/91CL-APP/blob/master/README.md )
 
+#### SSR节点免费共享
+
+------
+
+[点击进入👉SSR节点免费共享]( https://github.com/91CL/91CL-VPN/blob/master/201224%E5%85%8D%E8%B4%B9%E5%85%B1%E4%BA%ABSSR )
+
 #### 翻墙软件（不完全汇总）
 
 ------
