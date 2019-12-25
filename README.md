@@ -27,7 +27,7 @@
 
 ------
 
-[点击进入👉SSR节点免费共享]( https://github.com/91CL/91CL-VPN/blob/master/201224%E5%85%8D%E8%B4%B9%E5%85%B1%E4%BA%ABSSR )
+[点击进入👉SSR节点免费共享]( https://github.com/91CL/91CL-VPN/blob/master/20191225SSR%E8%8A%82%E7%82%B9%E5%85%8D%E8%B4%B9%E5%85%B1%E4%BA%AB )
 
 #### 翻墙软件（不完全汇总）
 
