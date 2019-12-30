@@ -21,7 +21,7 @@
 
 [点击进入👉91CL社區丨福利网站导航]( https://github.com/91CL/91CL-Nav/blob/master/README.md )
 
-[【最新发布】点击进入👉91CL社區丨福利APP分享]( https://github.com/91CL/91CL-APP/blob/master/README.md )
+[点击进入👉91CL社區丨福利APP分享]( https://github.com/91CL/91CL-APP/blob/master/README.md )
 
 #### SSR节点免费共享
 
